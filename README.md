@@ -58,12 +58,13 @@
 ### Stats
 
 <p>
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Nikhilsandilya17&show_icons=true&hide_border=true&count_private=true" height="160">
+  <img alt="stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nikhilsandilya17&show_icons=true&hide_border=true&count_private=true" height="160">
   <img alt="streak" src="https://streak-stats.demolab.com?user=Nikhilsandilya17&hide_border=true" height="160">
 </p>
 <p>
-  <img alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilsandilya17&layout=compact&hide_border=true&langs_count=8" height="160">
+  <img alt="langs" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nikhilsandilya17&layout=compact&hide_border=true&langs_count=8" height="160">
 </p>
+
 
 ---
 
